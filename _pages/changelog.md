@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What's New
+title: EmSafe - What's New
 include_in_header: true
 ---
 
