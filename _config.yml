@@ -42,19 +42,19 @@ features                                  :
 
   - title                                 : Customisable
     description                           : Change the way EmSafe is displayed to best suit you.
-    fontawesome_icon_name                 : cog
+    fontawesome_icon_name                 : gear
 
   - title                                 : International support
     description                           : Works in over 230 regions worldwide, with information updating automatically.
-    fontawesome_icon_name                 : globe-asia
+    fontawesome_icon_name                 : earth-oceania
 
   - title                                 : Accurate location
     description                           : Coordinates and Address updated whenever you move.
-    fontawesome_icon_name                 : map-marker-alt
+    fontawesome_icon_name                 : location-pin
 
   - title                                 : Privacy built-in
     description                           : Everything is done offline with no data collected whatsoever. 
-    fontawesome_icon_name                 : hand-paper
+    fontawesome_icon_name                 : hand
 
 
 
