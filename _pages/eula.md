@@ -5,56 +5,59 @@ include_in_header: false
 ---
 
 **Last updated**  
-May 27 2022
+May 31 2022
 
 # End-user License Agreement
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+<br>
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+This End-User Licence Agreement ("EULA") is a legal agreement between you and EmLoop Software Limited (“EmLoop”, “we”, “us”, “our”).
+<br>
+This EULA agreement governs your acquisition and use of our EmSafe software ("Software", “EmSafe”) directly from EmLoop or indirectly through a EmLoop authorised reseller or distributor (a "Reseller").
+<br>
+Please read this EULA agreement carefully before completing the installation process and using the EmSafe software. It provides a licence to use the EmSafe software and contains warranty information and liability disclaimers.
+<br>
+By clicking "I Agree" or installing and/or using the EmSafe software, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.
+<br>
+If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Software, and you must not accept this EULA agreement.
+<br>
+This EULA agreement shall apply only to the Software supplied by EmLoop herewith regardless of whether other software is referred to or described herein. The terms also apply to any My Company updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply.
+
+
+## 1 - Licence Grant
+EmLoop hereby grants you a personal, non-transferable, non-exclusive licence to use the EmSafe software on your devices in accordance with the terms of this EULA agreement.
+<br>
+You are permitted to load the licensed software (for example a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of EmSafe.
+<br>
+You are not permitted to:
+<br>
+
+- Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole or any part of the Software to be combined with or become incorporated in any other software, nor decompile, disassemble or reverse engineer the Software or attempt to do any such things.
+- Reproduce, copy, distribute, resell or otherwise use the Software for any commercial purpose
+- Allow any third party to use the Software on behalf of or for the benefit of any third party
+- Use the Software in any way which breaches any applicable local, national or international law
+- Use the Software for any purpose that EmLoop considers is a breach of this EULA agreement
 
 <br>
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
-
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
-
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+## 2 - Limitation of Liability
+To the maximum extent permitted by applicable law, in no event will EmLoop be liable for personal injury, or any consequential, special, indirect or incidental damages whatsoever. This includes, without limitation, damages for loss of data, loss of profits or any other commercial damages or losses arising from or relating to your use or inability to use the licensed software. You indemnify EmLoop against all liability, damage, loss, or injury suffered by any person, organisation, or entity in connection with the use of the licensed software. You accept and acknowledge that you remain liable for all and any acts that any person, organisation, or entity undertakes as a result of the content sourced via the licensed software.
 
 <br>
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+## 3 - Intellectual Property and Ownership
+EmLoop shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of EmLoop.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
-
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+<br>
+EmLoop reserves the right to grant licences to use the Software to third parties.
 
 <br>
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
-
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
-
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+## 4 - Termination
+This EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to EmLoop.
+<br>
+It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licences granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.
 
 <br>
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
-
-<br>
-
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## 5 - Governing Law
+This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of the United Kingdom.
