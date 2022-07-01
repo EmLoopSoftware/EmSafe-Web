@@ -15,6 +15,10 @@
                 {{ content }}
             </article>
 
+            {% unless page.no_footer %}
+            {% include footer.html %} 
+            {% endunless %}
+        
         </div>
         {% include appstoreimages.html %}
     </div>
