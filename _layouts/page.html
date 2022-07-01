@@ -15,7 +15,7 @@
                 {{ content }}
             </article>
 
-            {% unless page.no_footer %}
+            {% unless page.nofooter_onpage: true %}
             {% include footer.html %} 
             {% endunless %}
         
