@@ -25,18 +25,32 @@ EmSafe is fully customisable to best suit you and your device, with privacy buil
 <br>
 
 ## Links
-| --- | --- |
-| **EmSafe App Store Link** | <a href="https://apps.apple.com/app/id1633575773" target="_blank">https://apps.apple.com/app/id1633575773</a> |
-| **EmSafe App Store Link Shortened** | <a href ="https://apple.co/3O4OyPH" target="_blank">https://apple.co/3O4OyPH</a> |
-| **EmSafe Branded App Store Link** | <a href="https://emsafe.emloop.xyz/download" target="_blank">https://emsafe.emloop.xyz/download</a> |
-| **EmSafe Website** | <a href="https://emsafe.emloop.xyz" target="_blank">https://emsafe.emloop.xyz</a> |
-| **EmLoop Software Limited Website** | <a href="https://emloop.xyz" target="_blank">https://emloop.xyz</a> |
-| **Developer Github** | <a href="https://github.com/rahuuuul" target="_blank">https://github.com/Rahuuuul</a> |
 <table>
     <tr>
-        <td>**EmSafe App Store Link**</td>
+        <td><b>EmSafe App Store Link</b></td>
         <td><a href="https://apps.apple.com/app/id1633575773" target="_blank">https://apps.apple.com/app/id1633575773</a></td>
     </tr>
+    <tr>
+        <td><b>EmSafe App Store Link Shortened</b></td>
+        <td><a href ="https://apple.co/3O4OyPH" target="_blank">https://apple.co/3O4OyPH</a></td>
+    </tr>
+    <tr>
+        <td><b>EmSafe Branded App Store Link</b></td>
+        <td><a href="https://emsafe.emloop.xyz/download" target="_blank">https://emsafe.emloop.xyz/download</a></td>
+    </tr>
+    <tr>
+        <td><b>EmSafe Website</b></td>
+        <td><a href="https://emsafe.emloop.xyz" target="_blank">https://emsafe.emloop.xyz</a></td>
+    </tr>
+    <tr>
+        <td><b>EmLoop Software Limited Website</b></td>
+        <td><a href="https://emloop.xyz" target="_blank">https://emloop.xyz</a></td>
+    </tr>
+    <tr>
+        <td><b>Developer Github</b></td>
+        <td><a href="https://github.com/rahuuuul" target="_blank">https://github.com/Rahuuuul</a></td>
+    </tr>
+    
 </table>
 
 
