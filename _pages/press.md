@@ -32,7 +32,12 @@ EmSafe is fully customisable to best suit you and your device, with privacy buil
 | **EmSafe Website** | <a href="https://emsafe.emloop.xyz" target="_blank">https://emsafe.emloop.xyz</a> |
 | **EmLoop Software Limited Website** | <a href="https://emloop.xyz" target="_blank">https://emloop.xyz</a> |
 | **Developer Github** | <a href="https://github.com/rahuuuul" target="_blank">https://github.com/Rahuuuul</a> |
-
+<table>
+    <tr>
+        <td>**EmSafe App Store Link**</td>
+        <td><a href="https://apps.apple.com/app/id1633575773" target="_blank">https://apps.apple.com/app/id1633575773</a></td>
+    </tr>
+</table>
 
 
 
