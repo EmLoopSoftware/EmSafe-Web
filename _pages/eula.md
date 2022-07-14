@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-May 31 2022
+July 14 2022
 
 # End-user License Agreement
 <br>
@@ -59,5 +59,10 @@ It will also terminate immediately if you fail to comply with any term of this E
 
 <br>
 
-## 5 - Governing Law
+## 5 - Disclaimer
+This app provides resources for you to call and access emergency services. Specifically, EmSafe provides telephone numbers based on the users location. EmSafe does not transfer your location to emergency services and requires you to verbally state your location. While every effort is taken to ensure the accuracy of the information provided, no guarantee is given nor responsibility taken for errors or omissions in the information provided.
+
+<br>
+
+## 6 - Governing Law
 This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of the United Kingdom.
