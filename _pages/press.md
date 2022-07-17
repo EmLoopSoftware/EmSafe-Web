@@ -47,6 +47,10 @@ EmSafe is fully customisable to best suit you and your device, with privacy buil
         <td><a href="https://emloop.xyz" target="_blank">https://emloop.xyz</a></td>
     </tr>
     <tr>
+        <td><b>EmLoop Software Limited Twitter</b></td>
+        <td><a href="https://twitter.com/emloopsoftware" target="_blank">https://twitter.com/emloopsoftware</a></td>
+    </tr>
+    <tr>
         <td><b>Developer Github</b></td>
         <td><a href="https://github.com/rahuuuul" target="_blank">https://github.com/Rahuuuul</a></td>
     </tr>
