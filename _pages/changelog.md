@@ -11,7 +11,7 @@ Here's where you can see what has changed between each version of EmSafe.
 
 ##### 17 July 2022
 ### `Latest Release`
-# **Version 1.0.1**
+## **Version 1.0.1**
 Bug fixes, updated information, and an improved onboarding experience.
 
 <br>
