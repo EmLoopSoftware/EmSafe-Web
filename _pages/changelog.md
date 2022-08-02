@@ -11,6 +11,13 @@ Here's where you can see what has changed between each version of EmSafe.
 
 ###### 18 July 2022
 ### `Latest Release`
+## **Version 1.0.3**
+- Bug fixes
+- Improved the hospital finder to make sure only actual hospitals are shown
+
+<br>
+
+###### 18 July 2022
 ## **Version 1.0.2**
 Last release was pushed too quickly! Bug fixes and improved location services. 
 
