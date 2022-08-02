@@ -9,7 +9,7 @@ Here's where you can see what has changed between each version of EmSafe.
 
 <br>
 
-###### 18 July 2022
+###### 29 July 2022
 ### `Latest Release`
 ## **Version 1.0.3**
 - Bug fixes
