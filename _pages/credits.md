@@ -12,4 +12,12 @@ Here are all the amazing people and organisations that helped to bring you EmSaf
         <td><b><a href="https://www.linkedin.com/in/theo-dickey-5a647b227/" target="_blank">Theo Dickey</a></b></td>
         <td>Graphics</td>
     </tr>
+    <tr>
+        <td><b><a href="https://www.ukrqld.com.au/" target="_blank">The Ukrainian Community of Queensland Inc.</a></b></td>
+        <td>Translation - Ukrainian</td>
+    </tr>
+    <tr>
+        <td><b>Ms Nataliya Murad</b></td>
+        <td>Translation - Ukrainian</td>
+    </tr>
 </table>
