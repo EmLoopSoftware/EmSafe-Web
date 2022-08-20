@@ -21,3 +21,22 @@ Here are all the amazing people and organisations that helped to bring you EmSaf
         <td>Translation - Ukrainian</td>
     </tr>
 </table>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
