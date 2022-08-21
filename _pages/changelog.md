@@ -9,8 +9,14 @@ Here's where you can see what has changed between each version of EmSafe.
 
 <br>
 
-###### 19 August 2022
+###### 22 August 2022
 ### `Latest Release`
+## **Version 1.0.5**
+- Fixed an issue where user wasn't able to get past the onboarding stage of the app.
+
+<br>
+
+###### 19 August 2022
 ## **Version 1.0.4**
 Added Ukrainian as a language!
 - We worked with the Ukrainian Community of Queensland to translate EmSafe into Ukrainian, making it accessible to millions of marginalised individuals
