@@ -9,8 +9,16 @@ Here's where you can see what has changed between each version of EmSafe.
 
 <br>
 
-###### 29 July 2022
+###### 19 August 2022
 ### `Latest Release`
+## **Version 1.0.4**
+Added Ukrainian as a language!
+- We worked with the Ukrainian Community of Queensland to translate EmSafe into Ukrainian, making it accessible to millions of marginalised individuals
+Other updates include bug fixes & updated information
+
+<br>
+
+###### 29 July 2022
 ## **Version 1.0.3**
 - Bug fixes
 - Improved the hospital finder to make sure only actual hospitals are shown
