@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Our Parners
+title: Our Partners
 include_in_header: false
-nofooter_onpage: true
+no_footer: true
 ---
 
 # Our Partners
