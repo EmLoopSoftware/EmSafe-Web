@@ -20,6 +20,10 @@ Here are all the amazing people and organisations that helped to bring you EmSaf
         <td><b>Ms Nataliya Murad</b></td>
         <td>Translation - Ukrainian</td>
     </tr>
+    <tr>
+        <td><b>Mme. Alison Cleary</b></td>
+        <td>Translation - French</td>
+    </tr>
 </table>
 
 <br>
