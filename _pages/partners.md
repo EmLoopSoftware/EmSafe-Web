@@ -30,6 +30,10 @@ EmSafe has partnered with several organisations, non-profits, and NGO's around t
     <tr>
         <td><b>The Australian Refugee Association</b></td>
         <td><a href="https://www.australianrefugee.org/" target="_blank">https://www.australianrefugee.org</a></td>
+    </tr>  
+    <tr>
+        <td><b>Association of Ukrainians in Victoria</b></td>
+        <td><a href="https://auv.org.au/" target="_blank">https://auv.org.au</a></td>
     </tr>    
 </table>
 
