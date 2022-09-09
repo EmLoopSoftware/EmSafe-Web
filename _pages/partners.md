@@ -20,7 +20,7 @@ EmSafe has partnered with several organisations, non-profits, and NGO's around t
         <td><a href ="https://clearglobal.org/" target="_blank">https://clearglobal.org</a></td>
     </tr>
     <tr>
-        <td><b>The Ukrainian Community of Queensland</b></td>
+        <td><b>The Ukrainian Community of Queensland Inc.</b></td>
         <td><a href="https://www.ukrqld.com.au/" target="_blank">https://www.ukrqld.com.au</a></td>
     </tr>
     <tr>
@@ -28,8 +28,8 @@ EmSafe has partnered with several organisations, non-profits, and NGO's around t
         <td><a href="https://friendsofrefugees.org.au/" target="_blank">https://friendsofrefugees.org.au</a></td>
     </tr>
     <tr>
-        <td><b>The Romero Community Centre for Asylum Seekers</b></td>
-        <td><a href="https://romero.mercycommunity.org.au/" target="_blank">https://romero.mercycommunity.org.au</a></td>
+        <td><b>The Australian Refugee Association</b></td>
+        <td><a href="https://www.australianrefugee.org/" target="_blank">https://www.australianrefugee.org</a></td>
     </tr>    
 </table>
 
