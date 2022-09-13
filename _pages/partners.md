@@ -34,6 +34,10 @@ EmSafe has partnered with several organisations, non-profits, and NGO's around t
     <tr>
         <td><b>Association of Ukrainians in Victoria</b></td>
         <td><a href="https://auv.org.au/" target="_blank">https://auv.org.au</a></td>
+    </tr>  
+    <tr>
+        <td><b>what3words</b></td>
+        <td><a href="https://what3words.com/" target="_blank">https://what3words.com</a></td>
     </tr>    
 </table>
 
