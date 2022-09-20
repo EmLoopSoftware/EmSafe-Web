@@ -24,6 +24,14 @@ Here are all the amazing people and organisations that helped to bring you EmSaf
         <td><b>Mme. Alison Cleary</b></td>
         <td>Translation - French</td>
     </tr>
+    <tr>
+        <td><b><a href="https://clearglobal.org/" target="_blank">CLEAR Global</a></b></td>
+        <td>Translation - Russian</td>
+    </tr>
+    <tr>
+        <td><b><a href="https://translatorswithoutborders.org/" target="_blank">Translators Without Borders</a></b></td>
+        <td>Translation - Russian</td>
+    </tr>
 </table>
 
 <br>
