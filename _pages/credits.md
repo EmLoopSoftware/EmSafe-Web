@@ -26,11 +26,11 @@ Here are all the amazing people and organisations that helped to bring you EmSaf
     </tr>
     <tr>
         <td><b><a href="https://clearglobal.org/" target="_blank">CLEAR Global</a></b></td>
-        <td>Translation - Russian</td>
+        <td>Translation - Russian & Arabic</td>
     </tr>
     <tr>
         <td><b><a href="https://translatorswithoutborders.org/" target="_blank">Translators Without Borders</a></b></td>
-        <td>Translation - Russian</td>
+        <td>Translation - Russian & Arabic</td>
     </tr>
 </table>
 
