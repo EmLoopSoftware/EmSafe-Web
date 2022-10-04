@@ -9,8 +9,37 @@ Here's where you can see what has changed between each version of EmSafe.
 
 <br>
 
-###### 22 August 2022
+###### 3 October 2022
 ### `Latest Release`
+## **Version 1.0.9**
+Added Simplified Chinese as a supported language!
+- We worked with Translators Without Borders and CLEAR Global to translate EmSafe into Simplified Chinese.
+
+<br>
+
+###### 20 September 2022
+## **Version 1.0.8**
+Added Arabic as a supported language!
+- We worked with Translators Without Borders and CLEAR Global to translate EmSafe into Arabic.
+
+
+<br>
+
+###### 20 September 2022
+## **Version 1.0.7**
+Added Russian as a supported language!
+- We worked with Translators Without Borders and CLEAR Global to translate EmSafe into Russian, making it accessible to millions of marginalised individuals around the world.
+
+
+<br>
+
+###### 4 September 2022
+## **Version 1.0.6**
+Added French as a supported language!
+
+<br>
+
+###### 22 August 2022
 ## **Version 1.0.5**
 - Fixed an issue where user wasn't able to get past the onboarding stage of the app.
 
