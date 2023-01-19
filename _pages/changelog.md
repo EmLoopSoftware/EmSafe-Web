@@ -9,8 +9,22 @@ Here's where you can see what has changed between each version of EmSafe.
 
 <br>
 
-###### 3 October 2022
+###### 16 January 2023
 ### `Latest Release`
+## **Version 1.11**
+Added Dutch to EmSafe!
+- This update adds Dutch as a supported in EmSafe.
+- Modified home page to always include what3words.
+
+<br>
+
+###### 3 October 2022
+## **Version 1.1**
+Added what3words to EmSafe!
+
+<br>
+
+###### 3 October 2022
 ## **Version 1.0.9**
 Added Simplified Chinese as a supported language!
 - We worked with Translators Without Borders and CLEAR Global to translate EmSafe into Simplified Chinese.
