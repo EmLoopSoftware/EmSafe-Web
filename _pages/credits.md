@@ -25,6 +25,10 @@ Here are all the amazing people and organisations that helped to bring you EmSaf
         <td>Translation - French</td>
     </tr>
     <tr>
+        <td><b>Mr Henk Neddermeijer</b></td>
+        <td>Translation - Dutch</td>
+    </tr>
+    <tr>
         <td><b><a href="https://clearglobal.org/" target="_blank">CLEAR Global</a></b></td>
         <td>Translation - Russian, Arabic, and Simplified Chinese</td>
     </tr>
