@@ -20,7 +20,7 @@ function googleTranslateElementInit() {
 # End-user License Agreement
 <br>
 
-This End-User Licence Agreement ("EULA") is a legal agreement between you and EmLoop Software Limited (“EmLoop”, “we”, “us”, “our”).
+This End-User Licence Agreement ("EULA") is a legal agreement between you and Rahul Kumar T/A EmLoop Software (“EmLoop”, “we”, “us”, “our”).
 <br>
 This EULA agreement governs your acquisition and use of our EmSafe software ("Software", “EmSafe”) directly from EmLoop or indirectly through a EmLoop authorised reseller or distributor (a "Reseller").
 <br>
